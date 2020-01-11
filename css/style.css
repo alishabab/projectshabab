@@ -3,3 +3,8 @@
       background-color: black;
     }
   }
+
+#welcome-section {
+    height: 100vh;
+    overflow: auto;
+}
